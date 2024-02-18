@@ -1,5 +1,3 @@
-// Java program to demonstrate the working of the  "Has a" Relationship (Composition)
-
 class Employee
 {  
   double salary=80000;  
